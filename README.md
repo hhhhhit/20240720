@@ -37,7 +37,8 @@
 |3|张飞|俺也一样|
 
 
-## 列表
+## 列表(分为有序与无序, 可以混合使用)
+### 无序列表
 * Linux高级编程
   * Github基础
     * git基本命令
@@ -49,3 +50,23 @@
   * Apex
   * Pubg
 * Windows网络编程
+
+### 有序列表
+1. Linux高级编程
+  1. Github基础
+    1. git基本命令
+    2. github三要素
+  2. 正则表达式
+  3. Signal信号机制
+
+2. FPS游戏
+  1. Apex
+  2. Pubg
+3. Windows网络编程
+
+
+## 超链接
+[bilibili弹幕网](https://www.bilibili.com "点击去世")
+
+
+
